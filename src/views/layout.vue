@@ -1,5 +1,5 @@
 <template>
-<div>首页模块</div>
+<div>公共布局</div>
 </template>
 
 <script>
